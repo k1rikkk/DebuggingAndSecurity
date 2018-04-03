@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27428.2015
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InputValidation", "InputValidation\InputValidation.csproj", "{2ECE81AD-8E34-4C35-99AF-F9754D1224BC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests\Tests.csproj", "{23768ED6-1CD6-41D8-B91C-BA211A8D92C1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{2ECE81AD-8E34-4C35-99AF-F9754D1224BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2ECE81AD-8E34-4C35-99AF-F9754D1224BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2ECE81AD-8E34-4C35-99AF-F9754D1224BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23768ED6-1CD6-41D8-B91C-BA211A8D92C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23768ED6-1CD6-41D8-B91C-BA211A8D92C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23768ED6-1CD6-41D8-B91C-BA211A8D92C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23768ED6-1CD6-41D8-B91C-BA211A8D92C1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
